@@ -1,0 +1,8 @@
+C:\Users\orbit\source\repos\RomanAndArabicNumbersConversion\RomanAndArabicNumbersConversion\bin\Debug\RomanAndArabicNumbersConversion.exe.config
+C:\Users\orbit\source\repos\RomanAndArabicNumbersConversion\RomanAndArabicNumbersConversion\bin\Debug\RomanAndArabicNumbersConversion.exe
+C:\Users\orbit\source\repos\RomanAndArabicNumbersConversion\RomanAndArabicNumbersConversion\bin\Debug\RomanAndArabicNumbersConversion.pdb
+C:\Users\orbit\source\repos\RomanAndArabicNumbersConversion\RomanAndArabicNumbersConversion\obj\Debug\RomanAndArabicNumbersConversion.csproj.AssemblyReference.cache
+C:\Users\orbit\source\repos\RomanAndArabicNumbersConversion\RomanAndArabicNumbersConversion\obj\Debug\RomanAndArabicNumbersConversion.csproj.SuggestedBindingRedirects.cache
+C:\Users\orbit\source\repos\RomanAndArabicNumbersConversion\RomanAndArabicNumbersConversion\obj\Debug\RomanAndArabicNumbersConversion.csproj.CoreCompileInputs.cache
+C:\Users\orbit\source\repos\RomanAndArabicNumbersConversion\RomanAndArabicNumbersConversion\obj\Debug\RomanAndArabicNumbersConversion.exe
+C:\Users\orbit\source\repos\RomanAndArabicNumbersConversion\RomanAndArabicNumbersConversion\obj\Debug\RomanAndArabicNumbersConversion.pdb
